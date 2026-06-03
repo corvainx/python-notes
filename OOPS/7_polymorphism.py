@@ -1,6 +1,6 @@
 # polymorphism = Greek word that means to "many forms or faces"
 #                Poly = Many
-#                Morphe = Form
+#                Morphism = Form
 
 #                TWO WAYS TO ACHIEVE POLYMORPHISM
 #                1. Inheritance = An object could be treated of the same type as a parent class
