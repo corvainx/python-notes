@@ -1,0 +1,3 @@
+Hello, Python File Handling!
+Line 2: Data science and development notes.
+Line 3: Clean, structured file operations.
